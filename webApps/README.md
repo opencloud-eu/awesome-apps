@@ -1,12 +1,12 @@
 # Web App Store
 
-This `apps.json` file and the other files and subdirectories in this folder are used as the default 
-app respository for the ownCloud Web App Store.
+This `apps.json` file and the other files and subdirectories in this folder are used as the default
+app repository for the OpenCloud Web App Store.
 
 ## `apps.json` file
 
 At the moment there is no tooling around the `apps.json` file. It follows the json schema defined in
-the [app store types](https://github.com/owncloud/web/blob/master/packages/web-app-app-store/src/types.ts).
+the [app store types](https://github.com/opencloud-eu/web/blob/main/packages/web-app-app-store/src/types.ts).
 If you want to add your own app feel free to make a pull request in this repository.
 
 ## Assets of your app
@@ -31,13 +31,13 @@ hosts only one app we don't include the app name in the path.
 
 ### Licensing
 
-Please make sure that the assets you add to this repo have a license that allows us to keep them in this repository 
-and to show them in the ownCloud Web App Store. If you are not sure about the license of an asset, please do not add it.
+Please make sure that the assets you add to this repo have a license that allows us to keep them in this repository
+and to show them in the OpenCloud Web App Store. If you are not sure about the license of an asset, please do not add it.
 
 ## Downloadable app versions
 
-Our Web Apps have certain requirements for serving them via ownCloud Infinite Scale. See the 
-[developer documentation](https://owncloud.dev/services/web/#web-apps) for details. Your app must follow
+Our Web Apps have certain requirements for serving them via OpenCloud. See the
+[developer documentation](https://docs.opencloud.eu/services/web/#web-apps) for details. Your app must follow
 these requirements to be served via the Web App Store, otherwise we cannot accept your app. Simply put,
 your app must be downloadable as a `.zip` file and must contain a `manifest.json` file in the root of the zip file
 which specifies the entry point of your app. Downloadable app versions should be referenced under the `versions` key
