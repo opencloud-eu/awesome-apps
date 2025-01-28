@@ -1,51 +1,40 @@
 {
   "apps": [
     {
-      "id": "com.github.owncloud.web-extensions.draw-io",
+      "id": "com.github.opencloud-eu.web-extensions.draw-io",
       "name": "Draw.io",
       "subtitle": "View and edit draw.io diagram files (.drawio).",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/draw-io-v0.2.0/draw-io-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/draw-io-v0.1.0/draw-io-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud GmbH",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud GmbH",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["editor", "viewer", "diagram"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/1.png",
-          "caption": "Edit draw.io files in your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/1.png",
+          "caption": "Edit draw.io files in your OpenCloud"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/2.png",
           "caption": "Create new draw.io files from your file list"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/3.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/3.png",
           "caption": "An official draw.io example diagram"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/4.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/4.png",
           "caption": "An official draw.io example diagram"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/draw-io/screenshots/5.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/5.png",
           "caption": "An official draw.io example diagram"
         }
       ],
@@ -53,126 +42,93 @@
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-draw-io"
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-draw-io"
         }
       ]
     },
     {
-      "id": "com.github.owncloud.web-extensions.external-sites",
+      "id": "com.github.opencloud-eu.web-extensions.external-sites",
       "name": "External Sites",
       "subtitle": "Add links to the app switcher (embedded or external).",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/external-sites-v0.2.0/external-sites-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/external-sites-v0.1.0/external-sites-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["navigation", "app-switcher"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/external-sites/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/external-sites/screenshots/1.png",
-          "caption": "Wikipedia embedded into your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/screenshots/1.png",
+          "caption": "Wikipedia embedded into your OpenCloud"
         }
       ],
       "resources": [
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-external-sites"
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-external-sites"
         }
       ]
     },
     {
-      "id": "com.github.owncloud.web-extensions.json-viewer",
+      "id": "com.github.opencloud-eu.web-extensions.json-viewer",
       "name": "JSON Viewer",
       "subtitle": "View JSON files (.json) with syntax highlighting and collapsible nodes.",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/json-viewer-v0.2.0/json-viewer-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/json-viewer-v0.1.0/json-viewer-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["viewer"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/json-viewer/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/json-viewer/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/json-viewer/screenshots/1.png",
-          "caption": "View JSON files in your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/json-viewer/screenshots/1.png",
+          "caption": "View JSON files in your OpenCloud"
         }
       ],
       "resources": [
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-json-viewer"
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-json-viewer"
         }
       ]
     },
     {
-      "id": "com.github.owncloud.web-extensions.progress-bars",
+      "id": "com.github.opencloud-eu.web-extensions.progress-bars",
       "name": "Progress Bars",
       "subtitle": "A collection of progress bars for users to choose from.",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/progress-bars-v0.2.0/progress-bars-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/progress-bars-v0.1.0/progress-bars-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["design", "fun"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/screenshots/1.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/screenshots/1.png",
           "caption": "Nyan Cat progress bar"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/progress-bars/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/screenshots/2.png",
           "caption": "User settings"
         }
       ],
@@ -180,49 +136,33 @@
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-progress-bars"
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-progress-bars"
         }
       ]
     },
     {
-      "id": "com.github.owncloud.web-extensions.unzip",
+      "id": "com.github.opencloud-eu.web-extensions.unzip",
       "name": "Unzip",
-      "subtitle": "Unzip .zip files to the current folder, directly in your ownCloud.",
+      "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "0.3.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.3.0/unzip-0.3.0.zip"
-        },
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.2.0/unzip-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-extensions/releases/download/unzip-v0.1.0/unzip-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["file-management", "file-action"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/screenshots/1.png",
-          "caption": "Unzip a .zip file in your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/screenshots/1.png",
+          "caption": "Unzip a .zip file in your OpenCloud"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-extensions/unzip/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/screenshots/2.png",
           "caption": "Browse the unzipped archive"
         }
       ],
@@ -230,47 +170,36 @@
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-extensions/tree/main/packages/web-app-unzip"
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-unzip"
         }
       ]
     },
     {
-      "id": "com.github.owncloud.web-app-skeleton",
+      "id": "com.github.opencloud-eu.web-app-skeleton",
       "name": "Development boilerplate",
-      "subtitle": "Get started with app development for ownCloud Infinite Scale.",
+      "subtitle": "Get started with app development for OpenCloud.",
       "badge": {
         "label": "For Developers",
         "color": "danger"
       },
       "description": "Download the `skeleton` package and extract it. Open it in your favorite IDE. Read the README.md to get started developing your own app. Everything is set up for you, just start building.",
       "license": "Apache-2.0",
-      "versions": [
-        {
-          "version": "0.2.0",
-          "minOCIS": "6.4.0",
-          "url": "https://github.com/owncloud/web-app-skeleton/releases/download/v0.2.0/skeleton-0.2.0.zip"
-        },
-        {
-          "version": "0.1.0",
-          "minOCIS": "6.4.0",
-          "url": "https://github.com/owncloud/web-app-skeleton/releases/download/v0.1.0/skeleton-0.1.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["development", "example", "extension-system"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-skeleton/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-skeleton/cover.png"
       },
       "resources": [
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-app-skeleton"
+          "url": "https://github.com/opencloud-eu/web-app-skeleton"
         }
       ]
     },
@@ -282,12 +211,12 @@
       "versions": [
         {
           "version": "2.0.0",
-          "minOCIS": "6.4.0",
+          "minOpenCloud": "1.0.0",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.0.0/mdpresentation-viewer-2.0.0.zip"
         },
         {
           "version": "1.0.0",
-          "minOCIS": "6.2.0",
+          "minOpenCloud": "1.0.0",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/1.0.0/mdpresentation-viewer-1.0.0.zip"
         }
       ],
@@ -299,19 +228,19 @@
       ],
       "tags": ["viewer", "markdown", "presentation", "slides"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/jankaritech/web-app-presentation-viewer/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/1.png",
-          "caption": "Open in Presentation Viewer in your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/1.png",
+          "caption": "Open in Presentation Viewer in your OpenCloud"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/2.png",
           "caption": "Slide with some lists"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/3.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/jankaritech/web-app-presentation-viewer/screenshots/3.png",
           "caption": "Slide with code block"
         }
       ],
@@ -326,12 +255,12 @@
     {
       "id": "com.github.sawjan.3dviewer",
       "name": "3D Model Viewer",
-      "subtitle": "View 3D models directly from your ownCloud",
+      "subtitle": "View 3D models directly from your OpenCloud",
       "license": "AGPL-3.0",
       "versions": [
         {
           "version": "0.1.0",
-          "minOCIS": "6.4.0",
+          "minOpenCloud": "1.0.0",
           "url": "https://github.com/saw-jan/web-app-3dmodel-viewer/releases/download/0.1.0/3dviewer-0.1.0.zip"
         }
       ],
@@ -343,19 +272,19 @@
       ],
       "tags": ["3d", "viewer"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/saw-jan/web-app-3dmodel-viewer/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/1.png",
-          "caption": "Open in 3D Viewer in your ownCloud"
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/1.png",
+          "caption": "Open in 3D Viewer in your OpenCloud"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/2.png",
           "caption": "Side view of 3D ship model"
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/3.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/saw-jan/web-app-3dmodel-viewer/screenshots/3.png",
           "caption": "Top view of 3D ship model"
         }
       ],
@@ -368,51 +297,45 @@
       ]
     },
     {
-      "id": "com.github.owncloud.web-app-dicom-viewer",
+      "id": "com.github.opencloud-eu.web-app-dicom-viewer",
       "name": "DICOM Viewer",
       "subtitle": "Preview DICOM files (.dcm) – both the medical images and their corresponding metadata.",
       "description": "Blob sources (`child-src: 'blob:'`), data and url connections (`connect-src: 'data:' 'https://unpkg.com/detect-gpu@5.0.38/dist/benchmarks/d-intel.json'`) and unsafe dynamic code evaluation (`script-src: '''unsafe-eval'''`) must all be allowed in CSP.",
       "license": "AGPL-3.0",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "minOCIS": "6.2.0",
-          "url": "https://github.com/owncloud/web-app-dicom-viewer/releases/download/1.0.0/dicom-viewer-1.0.0.zip"
-        }
-      ],
+      "versions": [],
       "authors": [
         {
-          "name": "ownCloud",
-          "url": "https://owncloud.com"
+          "name": "OpenCloud",
+          "url": "https://opencloud.eu"
         }
       ],
       "tags": ["viewer", "dicom", "medical images", "metadata"],
       "coverImage": {
-        "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/cover.png"
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/cover.png"
       },
       "screenshots": [
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/1.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/1.png",
           "caption": "Preview a DICOM image and it's most important meta data."
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/2.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/2.png",
           "caption": "The extension allows to zoom, rotate and flip the preview of the DICOM image."
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/3.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/3.png",
           "caption": "Inverting the colors of the preview of the DICOM image is also supported."
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/4.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/4.png",
           "caption": "Display all corresponding metadata in sidebar."
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/5.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/5.png",
           "caption": "Preview a DICOM image and it's most important meta data on a mobile device."
         },
         {
-          "url": "https://raw.githubusercontent.com/owncloud/awesome-ocis/main/webApps/owncloud/web-app-dicom-viewer/screenshots/6.png",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-dicom-viewer/screenshots/6.png",
           "caption": "Display all corresponding metadata on a mobile device."
         }
       ],
@@ -420,7 +343,7 @@
         {
           "label": "GitHub",
           "icon": "github",
-          "url": "https://github.com/owncloud/web-app-dicom-viewer"
+          "url": "https://github.com/opencloud-eu/web-app-dicom-viewer"
         }
       ]
     }
