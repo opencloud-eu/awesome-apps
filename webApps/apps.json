@@ -5,7 +5,13 @@
       "name": "Draw.io",
       "subtitle": "View and edit draw.io diagram files (.drawio).",
       "license": "AGPL-3.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.0/draw-io-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud GmbH",
@@ -51,7 +57,13 @@
       "name": "External Sites",
       "subtitle": "Add links to the app switcher (embedded or external).",
       "license": "AGPL-3.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.0.0/external-sites-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud",
@@ -81,7 +93,13 @@
       "name": "JSON Viewer",
       "subtitle": "View JSON files (.json) with syntax highlighting and collapsible nodes.",
       "license": "AGPL-3.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.0/json-viewer-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud",
@@ -111,7 +129,13 @@
       "name": "Progress Bars",
       "subtitle": "A collection of progress bars for users to choose from.",
       "license": "AGPL-3.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/progress-bars-v1.0.0/progress-bars-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud",
@@ -145,7 +169,13 @@
       "name": "Unzip",
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v1.0.0/unzip-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud",
@@ -184,7 +214,13 @@
       },
       "description": "Download the `skeleton` package and extract it. Open it in your favorite IDE. Read the README.md to get started developing your own app. Everything is set up for you, just start building.",
       "license": "Apache-2.0",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-app-skeleton/releases/download/v1.0.0/skeleton-1.0.0.zip"
+        }
+      ],
       "authors": [
         {
           "name": "OpenCloud",
