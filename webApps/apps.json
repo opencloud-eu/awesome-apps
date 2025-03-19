@@ -190,10 +190,6 @@
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/screenshots/1.png",
           "caption": "Unzip a .zip file in your OpenCloud"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/screenshots/2.png",
-          "caption": "Browse the unzipped archive"
         }
       ],
       "resources": [
