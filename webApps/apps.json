@@ -171,6 +171,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.2",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v1.0.2/unzip-1.0.2.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v1.0.0/unzip-1.0.0.zip"
