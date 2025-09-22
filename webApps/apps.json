@@ -59,6 +59,16 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.2.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.2.0/external-sites-1.2.0.zip"
+        },
+        {
+          "version": "1.1.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.1.0/external-sites-1.1.0.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.0.0/external-sites-1.0.0.zip"
@@ -94,6 +104,11 @@
       "subtitle": "View JSON files (.json) with syntax highlighting and collapsible nodes.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "1.0.1",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.1/json-viewer-1.0.1.zip"
+        },
         {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
@@ -170,6 +185,11 @@
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "1.0.3",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v1.0.3/unzip-1.0.3.zip"
+        },
         {
           "version": "1.0.2",
           "minOpenCloud": "1.0.0",
