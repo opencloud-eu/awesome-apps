@@ -7,6 +7,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.1",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.1/draw-io-1.0.1.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.0/draw-io-1.0.0.zip"
@@ -59,6 +64,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.3.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.3.0/external-sites-1.3.0.zip"
+        },
+        {
           "version": "1.2.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.2.0/external-sites-1.2.0.zip"
@@ -105,6 +115,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.2",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.2/json-viewer-1.0.2.zip"
+        },
+        {
           "version": "1.0.1",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.1/json-viewer-1.0.1.zip"
@@ -145,6 +160,11 @@
       "subtitle": "A collection of progress bars for users to choose from.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "1.1.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/progress-bars-v1.1.0/progress-bars-1.1.0.zip"
+        },
         {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
