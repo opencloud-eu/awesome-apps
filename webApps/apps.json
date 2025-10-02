@@ -279,6 +279,47 @@
           "url": "https://github.com/opencloud-eu/web-app-skeleton"
         }
       ]
+    },
+    {
+      "id": "com.github.opencloud-eu.web-extensions.arcade",
+      "name": "Arcade",
+      "subtitle": "Arcade lets you open and play .nes ROMs in your browser.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v1.0.0/arcade-1.0.0.zip"
+        },
+        {
+          "version": "0.1.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v0.1.0/arcade-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Florian Schade",
+          "url": "https://github.com/fschade"
+        }
+      ],
+      "tags": ["file-action"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/screenshots/1.png",
+          "caption": "Open a .nes file in your OpenCloud"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-arcade"
+        }
+      ]
     }
   ]
 }
