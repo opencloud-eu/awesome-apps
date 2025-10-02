@@ -35,6 +35,8 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [PDF Viewer](https://github.com/opencloud-eu/web/tree/main/packages/web-app-pdf-viewer) - Read PDFs utilizing native browser pdf rendering
 - [Preview](https://github.com/opencloud-eu/web/tree/main/packages/web-app-preview) - View images, watch videos and listen to audio files
 - [Text Editor](https://github.com/opencloud-eu/web/tree/main/packages/web-app-text-editor) - Edit markdown and plain text file types using [MD Editor v3](https://github.com/imzbf/md-editor-v3)
+- [Maps](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-maps) - Open .gpx files and see location data of geotagged images in the sidebar
+- [Arcade](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-arcade) - Open and play .nes ROMs in your browser
 
 ### File Actions
 

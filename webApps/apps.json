@@ -7,6 +7,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.1",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.1/draw-io-1.0.1.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.0/draw-io-1.0.0.zip"
@@ -59,6 +64,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.3.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.3.0/external-sites-1.3.0.zip"
+        },
+        {
           "version": "1.2.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.2.0/external-sites-1.2.0.zip"
@@ -105,6 +115,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.2",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.2/json-viewer-1.0.2.zip"
+        },
+        {
           "version": "1.0.1",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.1/json-viewer-1.0.1.zip"
@@ -145,6 +160,11 @@
       "subtitle": "A collection of progress bars for users to choose from.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "1.1.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/progress-bars-v1.1.0/progress-bars-1.1.0.zip"
+        },
         {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
@@ -257,6 +277,92 @@
           "label": "GitHub",
           "icon": "github",
           "url": "https://github.com/opencloud-eu/web-app-skeleton"
+        }
+      ]
+    },
+    {
+      "id": "com.github.opencloud-eu.web-extensions.maps",
+      "name": "Maps",
+      "subtitle": "Open .gpx files and view location data of geotagged images in the sidebar.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/maps-v1.0.0/maps-1.0.0.zip"
+        },
+        {
+          "version": "0.1.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/maps-v0.1.0/maps-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Dominik Schmidt",
+          "url": "https://github.com/dschmidt"
+        }
+      ],
+      "tags": ["viewer", "file-action"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/screenshots/1.png",
+          "caption": "Open a .gpx file"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/screenshots/2.png",
+          "caption": "View location data in the right sidebar"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-maps"
+        }
+      ]
+    },
+    {
+      "id": "com.github.opencloud-eu.web-extensions.arcade",
+      "name": "Arcade",
+      "subtitle": "Arcade lets you open and play .nes ROMs in your browser.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "3.5.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v1.0.0/arcade-1.0.0.zip"
+        },
+        {
+          "version": "0.1.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v0.1.0/arcade-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Florian Schade",
+          "url": "https://github.com/fschade"
+        }
+      ],
+      "tags": ["file-action"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/screenshots/1.png",
+          "caption": "Open a .nes file in your OpenCloud"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-arcade"
         }
       ]
     }
