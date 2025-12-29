@@ -20,7 +20,7 @@ If you'd like to contribute to this list, please feel free to make a pull reques
 
 ## OpenCloud Apps and Extensions
 
-Please follow the steps provided in our [developer documentation](https://docs.opencloud.eu/docs/dev/web/extension-system) if you want to install any of the
+Please follow the steps provided in our [documentation](https://docs.opencloud.eu/docs/admin/configuration/web-applications) if you want to install any of the
 following apps and extensions. For some of them there are released artifacts, others still need to be built from source code.
 
 ### Build your own
