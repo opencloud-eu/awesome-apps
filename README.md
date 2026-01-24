@@ -37,6 +37,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [Text Editor](https://github.com/opencloud-eu/web/tree/main/packages/web-app-text-editor) - Edit markdown and plain text file types using [MD Editor v3](https://github.com/imzbf/md-editor-v3)
 - [Maps](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-maps) - Open .gpx files and see location data of geotagged images in the sidebar
 - [Arcade](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-arcade) - Open and play .nes ROMs in your browser
+- [3D Model Viewer](https://github.com/LetsDrinkSomeTea/opencloud-3dviewer) - Open 3D models in your browser using [three.js](https://threejs.org/)
 
 ### File Actions
 
