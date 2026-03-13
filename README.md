@@ -31,6 +31,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 ### Viewers & Editors
 
 - [Draw.io](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-draw-io) - View and edit [draw.io](https://www.draw.io) diagrams
+- [Excalidraw](https://github.com/mschneider82/opencloud-excalidraw) - View and edit [excalidraw.com](https://excalidraw.com) diagrams
 - [EPub Reader](https://github.com/opencloud-eu/web/tree/main/packages/web-app-epub-reader) - Read eBooks in .epub format using [epub.js](https://github.com/futurepress/epub.js)
 - [PDF Viewer](https://github.com/opencloud-eu/web/tree/main/packages/web-app-pdf-viewer) - Read PDFs utilizing native browser pdf rendering
 - [Preview](https://github.com/opencloud-eu/web/tree/main/packages/web-app-preview) - View images, watch videos and listen to audio files
