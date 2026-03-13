@@ -51,3 +51,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 ### Global Progress Bars
 
 - [Nyan Cat](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-progress-bars) - A JS+CSS only Nyan Cat progress bar for the global loading state.
+
+### Webmail
+
+- [Roundcube](https://github.com/mschneider82/opencloud-webmail) - Connect your roundcube instances with autologin
