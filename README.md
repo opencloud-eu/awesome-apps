@@ -57,3 +57,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 ### Webmail
 
 - [Roundcube](https://github.com/mschneider82/opencloud-webmail) - Connect your roundcube instances with autologin
+
+## Calendar
+
+- [Web-Calendar](https://github.com/mschneider82/opencloud-web-calendar) - View and edit OpenClouds Calendar
