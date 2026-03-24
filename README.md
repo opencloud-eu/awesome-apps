@@ -62,6 +62,10 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 - [Roundcube](https://github.com/mschneider82/opencloud-webmail) - Connect your roundcube instances with autologin
 
-## Calendar
+### Calendar
 
 - [Web-Calendar](https://github.com/mschneider82/opencloud-web-calendar) - View and edit OpenClouds Calendar
+
+### Misc
+
+- [Pastebin](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-pastebin) - A pastebin app to share text snippets with others.
