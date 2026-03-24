@@ -395,6 +395,36 @@
           "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-arcade"
         }
       ]
+    },
+    {
+      "id": "com.github.opencloud-eu.web-extensions.calculator",
+      "name": "Calculator",
+      "subtitle": "A calculator search provider for the global search.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "1.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/calculator-v1.0.0/calculator-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Dominik Schmidt",
+          "url": "https://github.com/dschmidt"
+        }
+      ],
+      "tags": ["search-provider"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/cover.png"
+      },
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-calculator"
+        }
+      ]
     }
   ]
 }
