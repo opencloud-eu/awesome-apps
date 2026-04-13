@@ -7,6 +7,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v2.0.0/draw-io-2.0.0.zip"
+        },
+        {
           "version": "1.0.1",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/draw-io-v1.0.1/draw-io-1.0.1.zip"
@@ -64,6 +69,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v2.0.0/external-sites-2.0.0.zip"
+        },
+        {
           "version": "1.3.0",
           "minOpenCloud": "3.5.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v1.3.0/external-sites-1.3.0.zip"
@@ -115,6 +125,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v2.0.0/json-viewer-2.0.0.zip"
+        },
+        {
           "version": "1.0.2",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/json-viewer-v1.0.2/json-viewer-1.0.2.zip"
@@ -161,6 +176,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/progress-bars-v2.0.0/progress-bars-2.0.0.zip"
+        },
+        {
           "version": "1.1.0",
           "minOpenCloud": "3.5.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/progress-bars-v1.1.0/progress-bars-1.1.0.zip"
@@ -205,6 +225,11 @@
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v2.0.0/unzip-2.0.0.zip"
+        },
         {
           "version": "1.0.4",
           "minOpenCloud": "3.7.0",
@@ -292,6 +317,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "3.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/maps-v3.0.0/maps-3.0.0.zip"
+        },
+        {
           "version": "2.0.2",
           "minOpenCloud": "3.7.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/maps-v2.0.2/maps-2.0.2.zip"
@@ -362,6 +392,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v2.0.0/arcade-2.0.0.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "3.5.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/arcade-v1.0.0/arcade-1.0.0.zip"
@@ -403,6 +438,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/calculator-v2.0.0/calculator-2.0.0.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/calculator-v1.0.0/calculator-1.0.0.zip"
@@ -432,6 +472,11 @@
       "subtitle": "A pastebin app to share text snippets with others.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/pastebin-v2.0.0/pastebin-2.0.0.zip"
+        },
         {
           "version": "1.0.0",
           "minOpenCloud": "5.0.0",
