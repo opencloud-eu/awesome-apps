@@ -514,6 +514,42 @@
           "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-pastebin"
         }
       ]
+    },
+    {
+      "id": "com.github.jankaritech.web-app-presentation-viewer",
+      "name": "Presentation Viewer",
+      "subtitle": "Extension to view markdown presentation slides with reveal.js library.",
+      "license": "Apache-2.0",
+      "versions": [
+        {
+          "version": "2.2.1",
+          "minOpenCloud": "2.0.0",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.2.1/mdpresentation-viewer-Opencloud-2.2.1.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "JankariTech",
+          "url": "https://www.jankaritech.com/"
+        }
+      ],
+      "tags": ["markdown", "presentation-slides", "reveal-js", "md"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/presentation-viewer/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/presentation-viewer/screenshots/1.png",
+          "caption": "View markdown slides using Presentation Viewer"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer"
+        }
+      ]
     }
   ]
 }
