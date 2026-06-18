@@ -522,6 +522,11 @@
       "license": "Apache-2.0",
       "versions": [
         {
+          "version": "2.3.0",
+          "minOpenCloud": "6.2.0",
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.3.0/mdpresentation-viewer-Opencloud-2.3.0.zip"
+        },
+        {
           "version": "2.2.1",
           "minOpenCloud": "2.0.0",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.2.1/mdpresentation-viewer-Opencloud-2.2.1.zip"
