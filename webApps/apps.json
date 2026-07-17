@@ -574,7 +574,7 @@
         {
           "version": "3.0.0",
           "minOpenCloud": "7.2.0",
-          "url":"https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.0.0/mdpresentation-viewer-Opencloud-3.0.0.zip"
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.0.0/mdpresentation-viewer-Opencloud-3.0.0.zip"
         },
         {
           "version": "2.3.0",
@@ -608,6 +608,42 @@
           "label": "GitHub",
           "icon": "github",
           "url": "https://github.com/JankariTech/web-app-presentation-viewer"
+        }
+      ]
+    },
+    {
+      "id": "com.github.opencloud-eu.web-extensions.bpmn",
+      "name": "BPMN",
+      "subtitle": "Extension for BPMN diagrams.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/bpmn-v1.0.0/bpmn-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "rlfnb",
+          "url": "https://github.com/rlfnb"
+        }
+      ],
+      "tags": ["bpmn", "editor", "viewer", "diagram"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/bpmn/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/bpmn/screenshots/1.png",
+          "caption": "Create, view and edit BPMN diagrams"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-bpmn"
         }
       ]
     }
