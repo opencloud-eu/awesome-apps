@@ -317,6 +317,11 @@
       "license": "Apache-2.0",
       "versions": [
         {
+          "version": "2.0.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-app-skeleton/archive/refs/heads/main.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "1.0.0",
           "url": "https://github.com/opencloud-eu/web-app-skeleton/releases/download/v1.0.0/skeleton-1.0.0.zip"
