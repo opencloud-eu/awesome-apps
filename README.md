@@ -71,3 +71,4 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 ### Misc
 
 - [Pastebin](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-pastebin) - A pastebin app to share text snippets with others.
+- [Importer](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-importer) - Import files from external clouds into your OpenCloud.
