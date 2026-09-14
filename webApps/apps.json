@@ -677,6 +677,55 @@
       ]
     },
     {
+      "id": "com.github.julesmellot.opencloud-forms",
+      "name": "OpenCloud Forms",
+      "subtitle": "Create forms, collect responses and file uploads, and export results to spreadsheets.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "minOpenCloud": "7.4.0",
+          "url": "https://github.com/JulesMellot/opencloud-forms/releases/download/v1.2.0/forms.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jules Mellot",
+          "url": "https://github.com/JulesMellot"
+        }
+      ],
+      "tags": ["forms", "editor", "file-upload", "spreadsheet"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/screenshots/1.png",
+          "caption": "Create questions and configure answer validation in OpenCloud Forms"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/screenshots/2.png",
+          "caption": "View responses and manage the OpenDocument spreadsheet"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/screenshots/3.png",
+          "caption": "Publish forms with public links or OpenCloud-only access"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/JulesMellot/opencloud-forms"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/JulesMellot/opencloud-forms#build-and-install-the-web-extension"
+        }
+      ]
+    },
+    {
       "id": "com.github.opencloud-eu.web-extensions.importer",
       "name": "Importer",
       "subtitle": "Import files from external clouds into your OpenCloud.",
