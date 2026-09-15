@@ -41,6 +41,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [3D Model Viewer](https://github.com/LetsDrinkSomeTea/opencloud-3dviewer) - Open 3D models in your browser using [three.js](https://threejs.org/)
 - [Presentation Viewer](https://github.com/JankariTech/web-app-presentation-viewer) - View markdown presentation slides in your browser using [reveal.js](https://revealjs.com/)
 - [BPMN Editor](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-bpmn) - Create, view and edit BPMN diagrams
+- [OpenCloud Forms](https://github.com/JulesMellot/opencloud-forms) - Create and share forms, collect responses and file uploads, and export results to spreadsheets. Requires the companion Forms server.
 
 ### File Actions
 
