@@ -42,6 +42,9 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [Presentation Viewer](https://github.com/JankariTech/web-app-presentation-viewer) - View markdown presentation slides in your browser using [reveal.js](https://revealjs.com/)
 - [BPMN Editor](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-bpmn) - Create, view and edit BPMN diagrams
 - [OpenCloud Forms](https://github.com/JulesMellot/opencloud-forms) - Create and share forms, collect responses and file uploads, and export results to spreadsheets. Requires the companion Forms server.
+- [News](https://github.com/gnacho/ocnews) - Read RSS/Atom feeds inside OpenCloud; compatible with the Nextcloud News API. Requires the companion ocapps server.
+- [Notes](https://github.com/gnacho/ocnotes) - Markdown notes with categories and favorites; compatible with the Nextcloud Notes API. Requires the companion ocapps server.
+- [ocphotos](https://github.com/gnacho/ocphotos) - Memories-style photo timeline, albums, map and duplicates on top of your OpenCloud files. Requires the companion ocapps server.
 
 ### File Actions
 

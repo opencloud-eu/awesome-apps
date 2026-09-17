@@ -1,6 +1,169 @@
 {
   "apps": [
     {
+      "id": "com.github.gnacho.ocnews",
+      "name": "News",
+      "subtitle": "Read RSS and Atom feeds right inside OpenCloud.",
+      "description": "News is a feed reader that lives in the OpenCloud app switcher: folders and subfolders, starred items, podcasts, full-text scraping, rules, saved searches and push notifications. It speaks the Nextcloud News API (v1.3), so the official Nextcloud News app for Android works against the same backend. The web extension only renders the UI; the API is served by the ocapps companion server (one installation also covers Notes and ocphotos).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnews/releases/download/news-v0.1.0/news-0.1.0.zip",
+          "filename": "news-0.1.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "gnacho",
+          "url": "https://github.com/gnacho"
+        }
+      ],
+      "tags": [
+        "news",
+        "rss",
+        "reader",
+        "feeds"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnews/cover.png",
+        "caption": "News three-panel reader"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnews/screenshots/1.png",
+          "caption": "Feed list, article list and reader in one view"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnews/screenshots/2.png",
+          "caption": "Organize feeds in folders and subfolders"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/gnacho/ocnews"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/gnacho/ocnews#store-package-release-zip"
+        }
+      ]
+    },
+    {
+      "id": "com.github.gnacho.ocnotes",
+      "name": "Notes",
+      "subtitle": "Distraction-free Markdown notes synced with your OpenCloud.",
+      "description": "Notes brings a simple, fast notes app to the OpenCloud UI: create, edit and categorize Markdown notes, mark favorites and search across everything. It implements the Nextcloud Notes API (v1 and v1.4), so third-party clients like Iotas keep working against the same backend. The web extension only renders the UI; the API is served by the ocapps companion server (one installation also covers News and ocphotos).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "0.1.4",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnotes/releases/download/notes-v0.1.4/notes-0.1.4.zip",
+          "filename": "notes-0.1.4.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "gnacho",
+          "url": "https://github.com/gnacho"
+        }
+      ],
+      "tags": [
+        "notes",
+        "markdown",
+        "editor",
+        "productivity"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnotes/cover.png",
+        "caption": "Notes list and Markdown editor"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnotes/screenshots/1.png",
+          "caption": "Edit Markdown notes with live preview"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnotes/screenshots/2.png",
+          "caption": "Browse notes by category and favorites"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/gnacho/ocnotes"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/gnacho/ocnotes#install-store-package"
+        }
+      ]
+    },
+    {
+      "id": "com.github.gnacho.ocphotos",
+      "name": "ocphotos",
+      "subtitle": "A Memories-style photo timeline for your OpenCloud files.",
+      "description": "ocphotos turns the photo folders in your OpenCloud into a full photo experience: a justified date timeline, \"on this day\", albums, tags, places, a map and duplicate detection, with OpenCloud staying the source of truth for the files. The web extension only renders the UI; the index, EXIF parsing and thumbnails (including HEIC) are served by the ocapps companion server (one installation also covers News and Notes).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocphotos/releases/download/ocphotos-v1.2.0/ocphotos-1.2.0.zip",
+          "filename": "ocphotos-1.2.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "gnacho",
+          "url": "https://github.com/gnacho"
+        }
+      ],
+      "tags": [
+        "photos",
+        "gallery",
+        "viewer",
+        "memories"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/cover.png",
+        "caption": "Justified photo timeline"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/screenshots/1.png",
+          "caption": "Timeline with month and day headers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/screenshots/2.png",
+          "caption": "Explore albums, places and tags"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/screenshots/3.png",
+          "caption": "Photo map built from EXIF GPS data"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/gnacho/ocphotos"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/gnacho/ocphotos#install-store-package"
+        }
+      ]
+    },
+    {
       "id": "com.github.opencloud-eu.web-extensions.draw-io",
       "name": "Draw.io",
       "subtitle": "View and edit draw.io diagram files (.drawio).",
@@ -38,7 +201,11 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["editor", "viewer", "diagram"],
+      "tags": [
+        "editor",
+        "viewer",
+        "diagram"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/cover.png"
       },
@@ -115,7 +282,10 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["navigation", "app-switcher"],
+      "tags": [
+        "navigation",
+        "app-switcher"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/cover.png"
       },
@@ -171,7 +341,9 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["viewer"],
+      "tags": [
+        "viewer"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/json-viewer/cover.png"
       },
@@ -222,7 +394,10 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["design", "fun"],
+      "tags": [
+        "design",
+        "fun"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/cover.png"
       },
@@ -292,7 +467,10 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["file-management", "file-action"],
+      "tags": [
+        "file-management",
+        "file-action"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/cover.png"
       },
@@ -338,7 +516,11 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["development", "example", "extension-system"],
+      "tags": [
+        "development",
+        "example",
+        "extension-system"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-skeleton/cover.png"
       },
@@ -408,7 +590,10 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": ["viewer", "file-action"],
+      "tags": [
+        "viewer",
+        "file-action"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/cover.png"
       },
@@ -472,7 +657,9 @@
           "url": "https://github.com/AlexAndBear"
         }
       ],
-      "tags": ["file-action"],
+      "tags": [
+        "file-action"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/cover.png"
       },
@@ -518,7 +705,9 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": ["search-provider"],
+      "tags": [
+        "search-provider"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/cover.png"
       },
@@ -558,7 +747,11 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": ["files", "pastebin", "snippet"],
+      "tags": [
+        "files",
+        "pastebin",
+        "snippet"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/pastebin/cover.png"
       },
@@ -617,7 +810,12 @@
           "url": "https://www.jankaritech.com/"
         }
       ],
-      "tags": ["markdown", "presentation-slides", "reveal-js", "md"],
+      "tags": [
+        "markdown",
+        "presentation-slides",
+        "reveal-js",
+        "md"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/presentation-viewer/cover.png"
       },
@@ -658,7 +856,12 @@
           "url": "https://github.com/rlfnb"
         }
       ],
-      "tags": ["bpmn", "editor", "viewer", "diagram"],
+      "tags": [
+        "bpmn",
+        "editor",
+        "viewer",
+        "diagram"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/bpmn/cover.png"
       },
@@ -694,7 +897,12 @@
           "url": "https://github.com/JulesMellot"
         }
       ],
-      "tags": ["forms", "editor", "file-upload", "spreadsheet"],
+      "tags": [
+        "forms",
+        "editor",
+        "file-upload",
+        "spreadsheet"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/cover.png"
       },
@@ -748,7 +956,10 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": ["import", "files"],
+      "tags": [
+        "import",
+        "files"
+      ],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/importer/cover.png"
       },
