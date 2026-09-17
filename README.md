@@ -44,7 +44,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [OpenCloud Forms](https://github.com/JulesMellot/opencloud-forms) - Create and share forms, collect responses and file uploads, and export results to spreadsheets. Requires the companion Forms server.
 - [News](https://github.com/gnacho/ocnews) - Read RSS/Atom feeds inside OpenCloud; multi-user, compatible with the Nextcloud News API. Requires the companion ocapps server.
 - [Notes](https://github.com/gnacho/ocnotes) - Markdown notes with categories and favorites; multi-user, compatible with the Nextcloud Notes API. Requires the companion ocapps server.
-- [ocphotos](https://github.com/gnacho/ocphotos) - Memories-style photo timeline, albums, map and duplicates on top of your OpenCloud files. Single-user; requires the companion ocapps server.
+- [ocphotos](https://github.com/gnacho/ocphotos) - Memories-style photo timeline, albums, map and duplicates on top of your OpenCloud files. Multi-user; requires the companion ocapps server.
 
 ### File Actions
 
