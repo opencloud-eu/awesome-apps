@@ -73,3 +73,11 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 - [Pastebin](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-pastebin) - A pastebin app to share text snippets with others.
 - [Importer](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-importer) - Import files from external clouds into your OpenCloud.
+
+### Full Apps
+
+Web extensions with a companion server. These apps are not installable from the Web App Store; follow the installation instructions in their repositories.
+
+- [ocnews](https://github.com/gnacho/ocnews) - RSS/Atom reader compatible with the Nextcloud News API v1.3, so the official Nextcloud News Android client works out of the box. Requires the [ocapps](https://github.com/gnacho/ocapps) companion server.
+- [ocnotes](https://github.com/gnacho/ocnotes) - Markdown notes compatible with the Nextcloud Notes API v1.4, so desktop clients like [Iotas](https://gitlab.gnome.org/World/iotas) work out of the box. Requires the [ocapps](https://github.com/gnacho/ocapps) companion server.
+- [ocphotos](https://github.com/gnacho/ocphotos) - Memories-style photo experience with a timeline, "on this day", places, albums, tags and a map. Requires the [ocapps](https://github.com/gnacho/ocapps) companion server.
