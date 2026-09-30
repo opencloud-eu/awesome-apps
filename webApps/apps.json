@@ -770,6 +770,59 @@
           "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-importer"
         }
       ]
+    },
+    {
+      "id": "com.github.simpledms.opencloud-integration",
+      "name": "SimpleDMS integration",
+      "subtitle": "Send files from OpenCloud directly to SimpleDMS.",
+      "description": "Export individual files from OpenCloud to SimpleDMS from the file context menu or file sidebar.",
+      "license": "AGPL-3.0-only",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "7.2.4",
+          "url": "https://github.com/simpledms/opencloud-integration/releases/download/v1.0.0/simpledms-integration.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Marco Beierer",
+          "url": "https://www.marcobeierer.ch"
+        }
+      ],
+      "tags": ["document-management", "file-action", "integration"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/simpledms/opencloud-integration/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/simpledms/opencloud-integration/screenshots/1.png",
+          "caption": "Export a file to SimpleDMS from its OpenCloud context menu"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/simpledms/opencloud-integration/screenshots/2.png",
+          "caption": "Export a file to SimpleDMS from the OpenCloud file sidebar"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/simpledms/opencloud-integration/screenshots/3.png",
+          "caption": "Confirm the OpenCloud file import in SimpleDMS"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/simpledms/opencloud-integration"
+        },
+        {
+          "label": "Documentation",
+          "url": "https://simpledms.eu/en/product/integrations#opencloud-integration"
+        },
+        {
+          "label": "Website",
+          "url": "https://simpledms.eu"
+        }
+      ]
     }
   ]
 }

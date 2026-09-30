@@ -46,6 +46,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 ### File Actions
 
 - [Cast](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-cast) - Send images and videos from your OpenCloud to your Chrome Cast.
+- [SimpleDMS integration](https://github.com/simpledms/opencloud-integration) - Send files from OpenCloud directly to [SimpleDMS](https://simpledms.eu).
 - [Unzip](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-unzip) - Unzip .zip files directly into the current folder.
 
 ### File Sidebar Panels
