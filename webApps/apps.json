@@ -20,12 +20,7 @@
           "url": "https://github.com/gnacho"
         }
       ],
-      "tags": [
-        "news",
-        "rss",
-        "reader",
-        "feeds"
-      ],
+      "tags": ["news", "rss", "reader", "feeds"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnews/cover.png",
         "caption": "News three-panel reader"
@@ -73,12 +68,7 @@
           "url": "https://github.com/gnacho"
         }
       ],
-      "tags": [
-        "notes",
-        "markdown",
-        "editor",
-        "productivity"
-      ],
+      "tags": ["notes", "markdown", "editor", "productivity"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocnotes/cover.png",
         "caption": "Notes list and Markdown editor"
@@ -126,12 +116,7 @@
           "url": "https://github.com/gnacho"
         }
       ],
-      "tags": [
-        "photos",
-        "gallery",
-        "viewer",
-        "memories"
-      ],
+      "tags": ["photos", "gallery", "viewer", "memories"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/cover.png",
         "caption": "Justified photo timeline"
@@ -201,11 +186,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "editor",
-        "viewer",
-        "diagram"
-      ],
+      "tags": ["editor", "viewer", "diagram"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/cover.png"
       },
@@ -282,10 +263,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "navigation",
-        "app-switcher"
-      ],
+      "tags": ["navigation", "app-switcher"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/cover.png"
       },
@@ -341,9 +319,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "viewer"
-      ],
+      "tags": ["viewer"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/json-viewer/cover.png"
       },
@@ -394,10 +370,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "design",
-        "fun"
-      ],
+      "tags": ["design", "fun"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/cover.png"
       },
@@ -472,10 +445,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "file-management",
-        "file-action"
-      ],
+      "tags": ["file-management", "file-action"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/cover.png"
       },
@@ -521,11 +491,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "development",
-        "example",
-        "extension-system"
-      ],
+      "tags": ["development", "example", "extension-system"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-app-skeleton/cover.png"
       },
@@ -543,6 +509,11 @@
       "subtitle": "Open .gpx files and view location data of geotagged images in the sidebar.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "3.1.1",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/maps-v3.1.1/maps-3.1.1.zip"
+        },
         {
           "version": "3.1.0",
           "minOpenCloud": "6.0.0",
@@ -595,10 +566,7 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": [
-        "viewer",
-        "file-action"
-      ],
+      "tags": ["viewer", "file-action"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/cover.png"
       },
@@ -662,9 +630,7 @@
           "url": "https://github.com/AlexAndBear"
         }
       ],
-      "tags": [
-        "file-action"
-      ],
+      "tags": ["file-action"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/cover.png"
       },
@@ -710,9 +676,7 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": [
-        "search-provider"
-      ],
+      "tags": ["search-provider"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/cover.png"
       },
@@ -752,11 +716,7 @@
           "url": "https://github.com/dschmidt"
         }
       ],
-      "tags": [
-        "files",
-        "pastebin",
-        "snippet"
-      ],
+      "tags": ["files", "pastebin", "snippet"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/pastebin/cover.png"
       },
@@ -815,12 +775,7 @@
           "url": "https://www.jankaritech.com/"
         }
       ],
-      "tags": [
-        "markdown",
-        "presentation-slides",
-        "reveal-js",
-        "md"
-      ],
+      "tags": ["markdown", "presentation-slides", "reveal-js", "md"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/presentation-viewer/cover.png"
       },
@@ -861,12 +816,7 @@
           "url": "https://github.com/rlfnb"
         }
       ],
-      "tags": [
-        "bpmn",
-        "editor",
-        "viewer",
-        "diagram"
-      ],
+      "tags": ["bpmn", "editor", "viewer", "diagram"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/bpmn/cover.png"
       },
@@ -902,12 +852,7 @@
           "url": "https://github.com/JulesMellot"
         }
       ],
-      "tags": [
-        "forms",
-        "editor",
-        "file-upload",
-        "spreadsheet"
-      ],
+      "tags": ["forms", "editor", "file-upload", "spreadsheet"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/JulesMellot/opencloud-forms/cover.png"
       },
@@ -961,10 +906,7 @@
           "url": "https://opencloud.eu"
         }
       ],
-      "tags": [
-        "import",
-        "files"
-      ],
+      "tags": ["import", "files"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/importer/cover.png"
       },
