@@ -221,6 +221,61 @@
       ]
     },
     {
+      "id": "com.github.opencloud-eu.web-extensions.excalidraw",
+      "name": "Excalidraw",
+      "subtitle": "Collaborative Excalidraw whiteboards (.excalidraw).",
+      "description": "Sketch diagrams, mind maps and wireframes in hand-drawn style with Excalidraw, right inside OpenCloud. Create new whiteboards from the \"New\" menu, edit them together in real time with live cursors and selections, and have every change saved back to your OpenCloud. Users without write access get a read-only view. Real-time collaboration requires an OpenCloud Yjs server and WEB_OPTION_YJS_SERVER_URL to be configured.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "8.1.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/excalidraw-v1.0.0/excalidraw-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "OpenCloud GmbH",
+          "url": "https://opencloud.eu"
+        }
+      ],
+      "tags": [
+        "whiteboard",
+        "editor",
+        "diagram",
+        "collaboration"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/excalidraw/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/excalidraw/screenshots/1.png",
+          "caption": "Edit whiteboards together in real time"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/excalidraw/screenshots/2.png",
+          "caption": "Sketch mind maps and diagrams in hand-drawn style"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/excalidraw/screenshots/3.png",
+          "caption": "Create new whiteboards from your file list"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-excalidraw"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-excalidraw#setup-for-collaboration"
+        }
+      ]
+    },
+    {
       "id": "com.github.opencloud-eu.web-extensions.external-sites",
       "name": "External Sites",
       "subtitle": "Add links to the app switcher (embedded or external).",
@@ -259,7 +314,7 @@
       ],
       "authors": [
         {
-          "name": "OpenCloud",
+          "name": "OpenCloud GmbH",
           "url": "https://opencloud.eu"
         }
       ],
@@ -315,7 +370,7 @@
       ],
       "authors": [
         {
-          "name": "OpenCloud",
+          "name": "OpenCloud GmbH",
           "url": "https://opencloud.eu"
         }
       ],
@@ -366,7 +421,7 @@
       ],
       "authors": [
         {
-          "name": "OpenCloud",
+          "name": "OpenCloud GmbH",
           "url": "https://opencloud.eu"
         }
       ],
@@ -441,7 +496,7 @@
       ],
       "authors": [
         {
-          "name": "OpenCloud",
+          "name": "OpenCloud GmbH",
           "url": "https://opencloud.eu"
         }
       ],
@@ -487,7 +542,7 @@
       ],
       "authors": [
         {
-          "name": "OpenCloud",
+          "name": "OpenCloud GmbH",
           "url": "https://opencloud.eu"
         }
       ],
