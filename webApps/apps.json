@@ -833,7 +833,7 @@
       ]
     },
     {
-      "id": "com.github.jankaritech.web-app-presentation-viewer",
+      "id": "com.github.jankaritech.mdpresentation-viewer",
       "name": "Presentation Viewer",
       "subtitle": "Extension to view markdown presentation slides with reveal.js library.",
       "license": "Apache-2.0",
