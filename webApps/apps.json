@@ -150,6 +150,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.draw-io",
+      "official": true,
       "name": "Draw.io",
       "subtitle": "View and edit draw.io diagram files (.drawio).",
       "license": "AGPL-3.0",
@@ -222,6 +223,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.excalidraw",
+      "official": true,
       "name": "Excalidraw",
       "subtitle": "Collaborative Excalidraw whiteboards (.excalidraw).",
       "description": "Sketch diagrams, mind maps and wireframes in hand-drawn style with Excalidraw, right inside OpenCloud. Create new whiteboards from the \"New\" menu, edit them together in real time with live cursors and selections, and have every change saved back to your OpenCloud. Users without write access get a read-only view. Real-time collaboration requires an OpenCloud Yjs server and WEB_OPTION_YJS_SERVER_URL to be configured.",
@@ -277,6 +279,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.external-sites",
+      "official": true,
       "name": "External Sites",
       "subtitle": "Add links to the app switcher (embedded or external).",
       "license": "AGPL-3.0",
@@ -338,6 +341,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.json-viewer",
+      "official": true,
       "name": "JSON Viewer",
       "subtitle": "View JSON files (.json) with syntax highlighting and collapsible nodes.",
       "license": "AGPL-3.0",
@@ -394,6 +398,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.progress-bars",
+      "official": true,
       "name": "Progress Bars",
       "subtitle": "A collection of progress bars for users to choose from.",
       "license": "AGPL-3.0",
@@ -449,6 +454,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.unzip",
+      "official": true,
       "name": "Unzip",
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
@@ -520,6 +526,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-app-skeleton",
+      "official": true,
       "name": "Development boilerplate",
       "subtitle": "Get started with app development for OpenCloud.",
       "badge": {
@@ -560,6 +567,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.maps",
+      "official": true,
       "name": "Maps",
       "subtitle": "Open .gpx files and view location data of geotagged images in the sidebar.",
       "license": "AGPL-3.0",
@@ -645,6 +653,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.arcade",
+      "official": true,
       "name": "Arcade",
       "subtitle": "Arcade lets you open and play gameboy, nes, snes and n64 ROMs in your browser.",
       "license": "AGPL-3.0",
@@ -705,6 +714,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.calculator",
+      "official": true,
       "name": "Calculator",
       "subtitle": "A calculator search provider for the global search.",
       "license": "AGPL-3.0",
@@ -745,6 +755,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.pastebin",
+      "official": true,
       "name": "Pastebin",
       "subtitle": "A pastebin app to share text snippets with others.",
       "license": "AGPL-3.0",
@@ -850,6 +861,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.bpmn",
+      "official": true,
       "name": "BPMN",
       "subtitle": "Extension for BPMN diagrams.",
       "license": "AGPL-3.0",
@@ -940,6 +952,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-extensions.importer",
+      "official": true,
       "name": "Importer",
       "subtitle": "Import files from external clouds into your OpenCloud.",
       "license": "AGPL-3.0",
