@@ -526,6 +526,7 @@
     },
     {
       "id": "com.github.opencloud-eu.web-app-skeleton",
+      "official": true,
       "name": "Development boilerplate",
       "subtitle": "Get started with app development for OpenCloud.",
       "badge": {
