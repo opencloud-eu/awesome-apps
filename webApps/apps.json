@@ -234,6 +234,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.0.1",
+          "minOpenCloud": "8.1.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/excalidraw-v1.0.1/excalidraw-1.0.1.zip"
+        },
+        {
           "version": "1.0.0",
           "minOpenCloud": "8.1.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/excalidraw-v1.0.0/excalidraw-1.0.0.zip"
@@ -467,6 +472,11 @@
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.2.1",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v2.2.1/unzip-2.2.1.zip"
+        },
         {
           "version": "2.2.0",
           "minOpenCloud": "6.0.0",
@@ -784,6 +794,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "2.2.0",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/pastebin-v2.2.0/pastebin-2.2.0.zip"
+        },
+        {
           "version": "2.1.0",
           "minOpenCloud": "6.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/pastebin-v2.1.0/pastebin-2.1.0.zip"
@@ -893,6 +908,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.1.1",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/bpmn-v1.1.1/bpmn-1.1.1.zip"
+        },
+        {
           "version": "1.1.0",
           "minOpenCloud": "6.0.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/bpmn-v1.1.0/bpmn-1.1.0.zip"
@@ -984,6 +1004,11 @@
       "subtitle": "Import files from external clouds into your OpenCloud.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.0.1",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/importer-v2.0.1/importer-2.0.1.zip"
+        },
         {
           "version": "2.0.0",
           "minOpenCloud": "6.0.0",
