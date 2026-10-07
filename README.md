@@ -51,6 +51,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 - [Cast](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-cast) - Send images and videos from your OpenCloud to your Chrome Cast.
 - [SimpleDMS integration](https://github.com/simpledms/opencloud-integration) - Send files from OpenCloud directly to [SimpleDMS](https://simpledms.eu).
+- [Folder Icons](https://github.com/JulesMellot/opencloud-folder-icons) - Customize the icon of each folder from the context menu: icon catalog with search, colors or your own PNG/ICO image. Optionally replaces the built-in Grid / List views to show the icons there.
 - [Unzip](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-unzip) - Unzip .zip files directly into the current folder.
 
 ### File Sidebar Panels
