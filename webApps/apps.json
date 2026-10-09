@@ -234,6 +234,11 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.1.0",
+          "minOpenCloud": "8.1.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/excalidraw-v1.1.0/excalidraw-1.1.0.zip"
+        },
+        {
           "version": "1.0.1",
           "minOpenCloud": "8.1.0",
           "url": "https://github.com/opencloud-eu/web-extensions/releases/download/excalidraw-v1.0.1/excalidraw-1.0.1.zip"
