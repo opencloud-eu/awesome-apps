@@ -1,6 +1,49 @@
 {
   "apps": [
     {
+      "id": "de.chksc.prod.forgejo.ashamed.cardtofile",
+      "name": "CardToFile",
+      "subtitle": "Synchronize CardDAV contacts with XLSX, ODS and CSV files.",
+      "description": "CardToFile synchronizes one CardDAV address book with a spreadsheet in an OpenCloud space. Create empty or contact-filled templates, choose the synchronization direction, review a dry run and configure a minute interval. Requires an administrator-installed companion PHP service and an authenticated CardDAV integration (for example Radicale); the web ZIP alone is insufficient. Automatic session synchronization runs while this view is open. The native web UI currently uses German. Synchronization can create, update and delete contacts and spreadsheet rows.",
+      "license": "AGPL-3.0-or-later",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "minOpenCloud": "8.0.0",
+          "url": "https://forgejo.prod.chksc.de/ashamed/carddav-excel-sync/releases/download/v0.2.0/cardtofile-0.2.0.zip",
+          "filename": "cardtofile-0.2.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ashamed",
+          "url": "https://forgejo.prod.chksc.de/ashamed"
+        }
+      ],
+      "tags": [
+        "contacts",
+        "carddav",
+        "spreadsheet",
+        "synchronization"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/ashamed/carddav-excel-sync/cardtofile/cover.png",
+        "caption": "CardDAV contacts and spreadsheets in sync"
+      },
+      "resources": [
+        {
+          "url": "https://forgejo.prod.chksc.de/ashamed/carddav-excel-sync",
+          "label": "Source code",
+          "icon": "code"
+        },
+        {
+          "url": "https://forgejo.prod.chksc.de/ashamed/carddav-excel-sync/src/tag/v0.2.0/opencloud/deploy/INSTALLATION.md",
+          "label": "Server installation",
+          "icon": "book-open"
+        }
+      ]
+    },
+    {
       "id": "com.github.gnacho.ocnews",
       "name": "News",
       "subtitle": "Read RSS and Atom feeds right inside OpenCloud.",
