@@ -330,6 +330,57 @@
       ]
     },
     {
+      "id": "com.github.opencloud-eu.web-extensions.apollon",
+      "official": true,
+      "name": "Apollon",
+      "subtitle": "Collaborative UML diagrams (.apollon).",
+      "description": "Model class, activity, use case, component, deployment and other UML diagrams with the Apollon editor, right inside OpenCloud. Create a new diagram from the \"New\" menu and choose one of 13 diagram types. Edit together in real time with live cursors, selections and a presence bar, and have every change saved back to your OpenCloud. Users without write access get a read-only view. Real-time collaboration requires an OpenCloud Yjs server and WEB_OPTION_YJS_SERVER_URL to be configured.",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minOpenCloud": "8.1.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/apollon-v1.0.0/apollon-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "OpenCloud GmbH",
+          "url": "https://opencloud.eu"
+        }
+      ],
+      "tags": ["uml", "editor", "diagram", "collaboration"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/apollon/cover.png"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/apollon/screenshots/1.png",
+          "caption": "Edit UML diagrams together in real time"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/apollon/screenshots/2.png",
+          "caption": "Model workflows with activity diagrams"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/apollon/screenshots/3.png",
+          "caption": "Choose from 13 diagram types"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-apollon"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-apollon#setup-for-collaboration"
+        }
+      ]
+    },
+    {
       "id": "com.github.opencloud-eu.web-extensions.external-sites",
       "official": true,
       "name": "External Sites",
