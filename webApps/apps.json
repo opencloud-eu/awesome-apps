@@ -1023,20 +1023,20 @@
           "version": "3.1.0",
           "releaseDate": "2026-09-10",
           "minOpenCloud": "7.5.0",
-          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.1.0/mdpresentation-viewer-Opencloud-3.1.0.zip"
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.1.0/mdpresentation-viewer-opencloud-3.1.0.zip"
         },
         {
           "version": "3.0.0",
           "releaseDate": "2026-07-01",
           "minOpenCloud": "7.2.0",
-          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.0.0/mdpresentation-viewer-Opencloud-3.0.0.zip"
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/3.0.0/mdpresentation-viewer-opencloud-3.0.0.zip"
         },
         {
           "version": "2.3.0",
           "releaseDate": "2026-06-17",
           "minOpenCloud": "6.2.0",
           "maxOpenCloud": "7.1.0",
-          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.3.0/mdpresentation-viewer-Opencloud-2.3.0.zip"
+          "url": "https://github.com/JankariTech/web-app-presentation-viewer/releases/download/2.3.0/mdpresentation-viewer-opencloud-2.3.0.zip"
         },
         {
           "version": "2.2.1",
