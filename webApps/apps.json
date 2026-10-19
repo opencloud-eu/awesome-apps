@@ -250,11 +250,11 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/1.png",
-          "caption": "Edit draw.io files in your OpenCloud"
+          "caption": "Edit a diagram in the current Draw.io interface"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/2.png",
-          "caption": "Create new draw.io files from your file list"
+          "caption": "Create a Draw.io document from the file list"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/draw-io/screenshots/3.png",
@@ -460,7 +460,11 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/screenshots/1.png",
-          "caption": "Wikipedia embedded into your OpenCloud"
+          "caption": "Open embedded sites from the current app drawer on the right"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/external-sites/screenshots/2.png",
+          "caption": "Browse Wikipedia embedded in OpenCloud"
         }
       ],
       "resources": [
@@ -525,7 +529,7 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/json-viewer/screenshots/1.png",
-          "caption": "View JSON files in your OpenCloud"
+          "caption": "Explore JSON files with collapsible tree nodes"
         }
       ],
       "resources": [
@@ -583,11 +587,11 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/screenshots/1.png",
-          "caption": "Nyan Cat progress bar"
+          "caption": "Nyan Cat progress bar during an actual file operation"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/progress-bars/screenshots/2.png",
-          "caption": "User settings"
+          "caption": "Choose a progress bar in the current app settings"
         }
       ],
       "resources": [
@@ -677,7 +681,7 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/unzip/screenshots/1.png",
-          "caption": "Unzip a .zip file in your OpenCloud"
+          "caption": "Extract a ZIP archive from its context menu"
         }
       ],
       "resources": [
@@ -695,7 +699,7 @@
       "subtitle": "Get started with app development for OpenCloud.",
       "badge": {
         "label": "For Developers",
-        "color": "danger"
+        "color": "primary"
       },
       "description": "Download the `skeleton` package and extract it. Open it in your favorite IDE. Read the README.md to get started developing your own app. Everything is set up for you, just start building.",
       "license": "Apache-2.0",
@@ -820,11 +824,11 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/screenshots/1.png",
-          "caption": "Open a .gpx file"
+          "caption": "View a GPX route with distance and elevation data"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/maps/screenshots/2.png",
-          "caption": "View location data in the right sidebar"
+          "caption": "View a photo and its GPS location in the sidebar"
         }
       ],
       "resources": [
@@ -892,7 +896,7 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/arcade/screenshots/1.png",
-          "caption": "Open a .nes file in your OpenCloud"
+          "caption": "Play Super Tilt Bro in the current Arcade interface"
         }
       ],
       "resources": [
@@ -940,6 +944,20 @@
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/cover.png"
       },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/screenshots/1.png",
+          "caption": "Calculate directly in the global search"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/screenshots/2.png",
+          "caption": "Use brackets and decimal numbers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/calculator/screenshots/3.png",
+          "caption": "Use functions and powers, then copy the result"
+        }
+      ],
       "resources": [
         {
           "label": "GitHub",
@@ -994,15 +1012,15 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/pastebin/screenshots/1.png",
-          "caption": "List all pastebins"
+          "caption": "List your shared pastebins"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/pastebin/screenshots/2.png",
-          "caption": "Create a new pastebin"
+          "caption": "Create a pastebin from a short code snippet"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/pastebin/screenshots/3.png",
-          "caption": "Edit a pastebin"
+          "caption": "Edit multiple files in one pastebin"
         }
       ],
       "resources": [
@@ -1110,7 +1128,7 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/opencloud-eu/web-extensions/bpmn/screenshots/1.png",
-          "caption": "Create, view and edit BPMN diagrams"
+          "caption": "Model a complete approval process in the BPMN editor"
         }
       ],
       "resources": [
