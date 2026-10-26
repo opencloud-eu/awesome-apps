@@ -350,6 +350,12 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.1.0",
+          "releaseDate": "2026-10-26",
+          "minOpenCloud": "8.1.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/apollon-v1.1.0/apollon-1.1.0.zip"
+        },
+        {
           "version": "1.0.1",
           "releaseDate": "2026-10-13",
           "minOpenCloud": "8.1.0",
