@@ -47,6 +47,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "releaseDate": "2026-10-05",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnews/releases/download/news-v0.2.0/news-0.2.0.zip",
+          "filename": "news-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
           "releaseDate": "2026-09-17",
           "minOpenCloud": "8.0.0",
@@ -96,6 +103,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.1.6",
+          "releaseDate": "2026-10-05",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnotes/releases/download/notes-v0.1.6/notes-0.1.6.zip",
+          "filename": "notes-0.1.6.zip"
+        },
+        {
           "version": "0.1.4",
           "releaseDate": "2026-09-17",
           "minOpenCloud": "8.0.0",
@@ -144,6 +158,13 @@
       "description": "ocphotos turns the photo folders in your OpenCloud into a full photo experience: a justified date timeline, \"on this day\", albums, tags, places, a map and duplicate detection, with OpenCloud staying the source of truth for the files. The web extension only renders the UI; the index, EXIF parsing and thumbnails (including HEIC) are served by the ocapps companion server (one installation also covers News and Notes).",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "1.6.0",
+          "releaseDate": "2026-10-28",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocphotos/releases/download/ocphotos-v1.6.0/ocphotos-1.6.0.zip",
+          "filename": "ocphotos-1.6.0.zip"
+        },
         {
           "version": "1.2.0",
           "releaseDate": "2026-09-17",
