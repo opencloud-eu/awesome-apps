@@ -21,12 +21,7 @@
           "url": "https://forgejo.prod.chksc.de/ashamed"
         }
       ],
-      "tags": [
-        "contacts",
-        "carddav",
-        "spreadsheet",
-        "synchronization"
-      ],
+      "tags": ["contacts", "carddav", "spreadsheet", "synchronization"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/ashamed/carddav-excel-sync/cardtofile/cover.png",
         "caption": "CardDAV contacts and spreadsheets in sync"
@@ -412,6 +407,12 @@
       "subtitle": "Add links to the app switcher (embedded or external).",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.2.0",
+          "releaseDate": "2026-10-28",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/external-sites-v2.2.0/external-sites-2.2.0.zip"
+        },
         {
           "version": "2.1.0",
           "releaseDate": "2026-07-15",
