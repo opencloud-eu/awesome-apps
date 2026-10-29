@@ -47,6 +47,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "0.2.0",
+          "releaseDate": "2026-10-05",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnews/releases/download/news-v0.2.0/news-0.2.0.zip",
+          "filename": "news-0.2.0.zip"
+        },
+        {
           "version": "0.1.0",
           "releaseDate": "2026-09-17",
           "minOpenCloud": "8.0.0",
@@ -95,6 +102,13 @@
       "description": "Notes brings a simple, fast notes app to the OpenCloud UI: create, edit and categorize Markdown notes, mark favorites and search across everything. It implements the Nextcloud Notes API (v1 and v1.4), so third-party clients like Iotas keep working against the same backend. The web extension only renders the UI; the API is served by the ocapps companion server (one installation also covers News and ocphotos).",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "0.1.6",
+          "releaseDate": "2026-10-05",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocnotes/releases/download/notes-v0.1.6/notes-0.1.6.zip",
+          "filename": "notes-0.1.6.zip"
+        },
         {
           "version": "0.1.4",
           "releaseDate": "2026-09-17",
@@ -145,6 +159,13 @@
       "license": "AGPL-3.0",
       "versions": [
         {
+          "version": "1.6.0",
+          "releaseDate": "2026-10-28",
+          "minOpenCloud": "8.0.0",
+          "url": "https://github.com/gnacho/ocphotos/releases/download/ocphotos-v1.6.0/ocphotos-1.6.0.zip",
+          "filename": "ocphotos-1.6.0.zip"
+        },
+        {
           "version": "1.2.0",
           "releaseDate": "2026-09-17",
           "minOpenCloud": "8.0.0",
@@ -166,7 +187,7 @@
       "screenshots": [
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/screenshots/1.png",
-          "caption": "Timeline with month and day headers"
+          "caption": "Full screen photo viewer with EXIF details and quick actions"
         },
         {
           "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/gnacho/ocphotos/screenshots/2.png",
