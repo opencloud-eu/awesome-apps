@@ -47,6 +47,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 - [News](https://github.com/gnacho/ocnews) - Read RSS/Atom feeds inside OpenCloud; multi-user, compatible with the Nextcloud News API. Requires the companion ocapps server.
 - [Notes](https://github.com/gnacho/ocnotes) - Markdown notes with categories and favorites; multi-user, compatible with the Nextcloud Notes API. Requires the companion ocapps server.
 - [ocphotos](https://github.com/gnacho/ocphotos) - Memories-style photo timeline, albums, map and duplicates on top of your OpenCloud files. Multi-user; requires the companion ocapps server.
+- [Euro-Office Desktop](https://github.com/palchrb/euro-office-desktop) - Make your OpenCloud portal show up (and stay) in the Clouds list of the [Euro-Office](https://github.com/Euro-Office/desktop-apps) desktop app (and probably ONLYOFFICE as well, once it ships the `opencloud` provider).
 
 ### File Actions
 
