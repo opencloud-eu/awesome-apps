@@ -28,7 +28,7 @@
         "productivity"
       ],
       "coverImage": {
-        "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/3.jpg",
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/cover.jpg",
         "caption": "Fictional document library (dark theme)"
       },
       "resources": [
@@ -57,27 +57,27 @@
       },
       "screenshots": [
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/1.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/1.jpg",
           "caption": "Inbox with fictional documents"
         },
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/2.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/2.jpg",
           "caption": "Review beside the original PDF"
         },
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/3.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/3.jpg",
           "caption": "Searchable document library"
         },
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/4.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/4.jpg",
           "caption": "Independent OCR and AI controls"
         },
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/5.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/5.jpg",
           "caption": "Processing and attempt history"
         },
         {
-          "url": "https://github.com/phillip9933/opencloud-document-workflow/raw/v0.20.3/deploy/screenshots/6.jpg",
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/6.jpg",
           "caption": "Document library in light mode"
         }
       ]
