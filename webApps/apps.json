@@ -1,6 +1,88 @@
 {
   "apps": [
     {
+      "id": "com.github.phillip9933.opencloud-document-workflow.document-workflow",
+      "name": "Document Workflow",
+      "subtitle": "Review and automatically file documents in OpenCloud.",
+      "description": "PDF Inbox, local OCR, optional AI suggestions, fields, tags and review or automatic filing. Original files and permissions stay in OpenCloud. Requires the companion service: an administrator installs the matching Docker kit once per instance. The store ZIP alone installs only the frontend. The kit bundles Node, Poppler, Tesseract and OCR data; conversion is optional. Use an OpenCloud App Token for unattended work. Independent community beta, tested on OpenCloud 9.",
+      "license": "AGPL-3.0-only",
+      "versions": [
+        {
+          "version": "0.20.3",
+          "releaseDate": "2026-11-05",
+          "minOpenCloud": "9.0.0",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow/releases/download/v0.20.3/document-workflow-0.20.3.zip",
+          "filename": "document-workflow-0.20.3.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Phil Rogers",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow"
+        }
+      ],
+      "tags": [
+        "documents",
+        "ocr",
+        "automation",
+        "productivity"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/cover.jpg",
+        "caption": "Fictional document library (dark theme)"
+      },
+      "resources": [
+        {
+          "label": "Source code",
+          "icon": "code",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow/releases/download/v0.20.3/QUICK_INSTALL.md"
+        },
+        {
+          "label": "Coordinated installation kit",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow/releases/download/v0.20.3/document-workflow-0.20.3-install.tar.gz"
+        },
+        {
+          "label": "Checksums",
+          "url": "https://github.com/phillip9933/opencloud-document-workflow/releases/download/v0.20.3/SHA256SUMS"
+        }
+      ],
+      "badge": {
+        "label": "Beta",
+        "color": "primary"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/1.jpg",
+          "caption": "Inbox with fictional documents"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/2.jpg",
+          "caption": "Review beside the original PDF"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/3.jpg",
+          "caption": "Searchable document library"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/4.jpg",
+          "caption": "Independent OCR and AI controls"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/5.jpg",
+          "caption": "Processing and attempt history"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/screenshots/6.jpg",
+          "caption": "Document library in light mode"
+        }
+      ]
+    },
+    {
       "id": "de.chksc.prod.forgejo.ashamed.cardtofile",
       "name": "CardToFile",
       "subtitle": "Synchronize CardDAV contacts with XLSX, ODS and CSV files.",

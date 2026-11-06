@@ -30,6 +30,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 ### Viewers & Editors
 
+- [Document Workflow](https://github.com/phillip9933/opencloud-document-workflow) - PDF Inbox, OCR, review and automatic filing; companion service required (community beta)
 - [Draw.io](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-draw-io) - View and edit [draw.io](https://www.draw.io) diagrams
 - [Excalidraw Whiteboard](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-excalidraw) - Collaborative [Excalidraw](https://excalidraw.com) whiteboards with real-time editing
 - [Apollon](https://github.com/opencloud-eu/web-extensions/tree/main/packages/web-app-apollon) - Collaborative UML diagrams with the [Apollon](https://github.com/ls1intum/Apollon) editor
