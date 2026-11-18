@@ -21,12 +21,7 @@
           "url": "https://github.com/phillip9933/opencloud-document-workflow"
         }
       ],
-      "tags": [
-        "documents",
-        "ocr",
-        "automation",
-        "productivity"
-      ],
+      "tags": ["documents", "ocr", "automation", "productivity"],
       "coverImage": {
         "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/phillip9933/opencloud-document-workflow/cover.jpg",
         "caption": "Fictional document library (dark theme)"
@@ -737,6 +732,12 @@
       "subtitle": "Unzip .zip files to the current folder, directly in your OpenCloud.",
       "license": "AGPL-3.0",
       "versions": [
+        {
+          "version": "2.2.3",
+          "releaseDate": "2026-11-18",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/opencloud-eu/web-extensions/releases/download/unzip-v2.2.3/unzip-2.2.3.zip"
+        },
         {
           "version": "2.2.2",
           "releaseDate": "2026-11-17",
