@@ -1,6 +1,62 @@
 {
   "apps": [
     {
+      "id": "com.github.gaijinsystems.opencloud-radio.radio",
+      "name": "OpenCloud Radio",
+      "subtitle": "Internet radio player.",
+      "description": "Listen to internet radio in OpenCloud. Station lists are ordinary `.m3u8` playlists in your own space. Stations can keep backup servers to fall back on, and track titles come from the stream or the station's host. You can search across lists, import playlists and, if your administrator enables it, browse an online station directory. Needs `media-src https:` in OpenCloud's content security policy, and `connect-src https:` for track titles; see the [installation notes](https://github.com/GaijinSystems/opencloud-radio/blob/main/INSTALL.md).",
+      "license": "AGPL-3.0-or-later",
+      "versions": [
+        {
+          "version": "1.2.3",
+          "releaseDate": "2026-11-22",
+          "minOpenCloud": "7.2.5",
+          "url": "https://github.com/GaijinSystems/opencloud-radio/releases/download/v1.2.3/opencloud-radio-1.2.3.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "GaijinSystems",
+          "url": "https://github.com/GaijinSystems"
+        }
+      ],
+      "tags": ["radio", "music", "player"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-radio/cover.png",
+        "caption": "A station list, with one station playing"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-radio/screenshots/1.png",
+          "caption": "The player in OpenCloud's dark theme"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-radio/screenshots/2.png",
+          "caption": "Edit a station, with its backup servers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-radio/screenshots/3.png",
+          "caption": "Search across all your station lists"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/GaijinSystems/opencloud-radio"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/GaijinSystems/opencloud-radio/blob/main/INSTALL.md"
+        },
+        {
+          "label": "Live demo",
+          "url": "https://radio.gaijin.systems"
+        }
+      ]
+    },
+    {
       "id": "com.github.gaijinsystems.opencloud-sidplayer.sidplayer",
       "name": "OpenCloud SID Player",
       "subtitle": "Play Commodore 64 SID music in OpenCloud.",
