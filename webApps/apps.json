@@ -1,6 +1,66 @@
 {
   "apps": [
     {
+      "id": "com.github.gaijinsystems.opencloud-comicreader.comic-reader",
+      "name": "OpenCloud Comic Reader",
+      "subtitle": "Read CBZ, CBR and CB7 comic books right in OpenCloud.",
+      "description": "Opens .cbz, .cbr, .cb7 and .c7z comics from the file list in a reader made for them: one or two pages at a time, double-page spreads across the width, fit modes and rotation, a page strip for jumping anywhere, and your place remembered. Password-protected comics in every format are unlocked in the browser tab; the password is never sent to the server. CBR, CB7 and C7Z (and CBZ in bzip2, LZMA or PPMd) need `'wasm-unsafe-eval'` added to `script-src` in OpenCloud's content security policy; see the [installation notes](https://github.com/GaijinSystems/opencloud-comicreader#quick-start).",
+      "license": "AGPL-3.0-or-later",
+      "versions": [
+        {
+          "version": "1.2.4",
+          "releaseDate": "2026-11-22",
+          "minOpenCloud": "6.0.0",
+          "url": "https://github.com/GaijinSystems/opencloud-comicreader/releases/download/v1.2.4/opencloud-comicreader-1.2.4.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "GaijinSystems",
+          "url": "https://github.com/GaijinSystems"
+        }
+      ],
+      "tags": ["viewer", "reader", "comics"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-comicreader/cover.png",
+        "caption": "Two pages side by side in the reader"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-comicreader/screenshots/1.png",
+          "caption": "Read two pages side by side, in OpenCloud's light or dark theme"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-comicreader/screenshots/2.png",
+          "caption": "Double-page spreads are shown on their own, across the width"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-comicreader/screenshots/3.png",
+          "caption": "Jump anywhere in the book from the page strip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-comicreader/screenshots/4.png",
+          "caption": "Password-protected comics, unlocked in the browser"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/GaijinSystems/opencloud-comicreader"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/GaijinSystems/opencloud-comicreader#quick-start"
+        },
+        {
+          "label": "Live demo",
+          "url": "https://comicreader.gaijin.systems"
+        }
+      ]
+    },
+    {
       "id": "com.github.gaijinsystems.opencloud-radio.radio",
       "name": "OpenCloud Radio",
       "subtitle": "Internet radio player.",
