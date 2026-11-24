@@ -1,6 +1,62 @@
 {
   "apps": [
     {
+      "id": "com.github.gaijinsystems.opencloud-sidplayer.sidplayer",
+      "name": "OpenCloud SID Player",
+      "subtitle": "Play Commodore 64 SID music in OpenCloud.",
+      "description": "Plays Commodore 64 SID and Compute's Gazette Sidplayer (`.mus`) music straight from the file list, emulated in the browser by libsidplayfp, with subsongs, HVSC song lengths and a spectrum view. Its own library browses and searches the High Voltage SID Collection, kept in your space and synced from an HVSC mirror, whole or tune by tune. Needs `'wasm-unsafe-eval'` in `script-src` of OpenCloud's content security policy, and for the library a `/hvsc-mirror/` route in your reverse proxy; see the [installation notes](https://github.com/GaijinSystems/opencloud-sidplayer/blob/main/INSTALL.md).",
+      "license": "AGPL-3.0",
+      "versions": [
+        {
+          "version": "1.2.2",
+          "releaseDate": "2026-11-23",
+          "minOpenCloud": "7.2.5",
+          "url": "https://github.com/GaijinSystems/opencloud-sidplayer/releases/download/v1.2.2/opencloud-sidplayer-1.2.2.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "GaijinSystems",
+          "url": "https://github.com/GaijinSystems"
+        }
+      ],
+      "tags": ["viewer", "music", "audio"],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-sidplayer/cover.png",
+        "caption": "The library, playing a tune from the favourites"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-sidplayer/screenshots/1.png",
+          "caption": "The same library in OpenCloud's dark theme"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-sidplayer/screenshots/2.png",
+          "caption": "Click a tune in Files and it plays in the dock"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/GaijinSystems/opencloud-sidplayer/screenshots/3.png",
+          "caption": "The full player view, with the tune's details"
+        }
+      ],
+      "resources": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "url": "https://github.com/GaijinSystems/opencloud-sidplayer"
+        },
+        {
+          "label": "Installation",
+          "icon": "book-open",
+          "url": "https://github.com/GaijinSystems/opencloud-sidplayer/blob/main/INSTALL.md"
+        },
+        {
+          "label": "Live demo",
+          "url": "https://sidplayer.gaijin.systems"
+        }
+      ]
+    },
+    {
       "id": "com.github.phillip9933.opencloud-document-workflow.document-workflow",
       "name": "Document Workflow",
       "subtitle": "Review and automatically file documents in OpenCloud.",
