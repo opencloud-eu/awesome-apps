@@ -79,6 +79,7 @@ Reach out to us if you need any help. And don't forget to add your apps and exte
 
 ### Calendar
 
+- [Planner](https://github.com/r1cht4/opencloud-planner) - Calendar, contacts and tasks for OpenCloud, backed by CalDAV/CardDAV (needs Radicale from opencloud-compose)
 - [Web-Calendar](https://github.com/mschneider82/opencloud-web-calendar) - View and edit OpenClouds Calendar
 
 ### Misc
