@@ -1,6 +1,75 @@
 {
   "apps": [
     {
+      "id": "com.github.r1cht4.opencloud-planner",
+      "name": "Planner",
+      "subtitle": "Calendar, contacts and tasks for OpenCloud, backed by CalDAV/CardDAV.",
+      "description": "Adds Calendar, Contacts and Tasks to the OpenCloud web UI. The browser talks CalDAV/CardDAV directly to the Radicale server that opencloud-compose ships (same origin, the user's OpenCloud session), so there is no extra server component or database. Day, week, month and agenda views with recurring events and reminders; contacts with vCard import/export and CSV (Google, Outlook); tasks with due dates and priorities; import and export from the Files app, backup and restore, admin defaults and locks. Requires Radicale to be enabled in opencloud-compose; see the [installation guide](https://github.com/r1cht4/opencloud-planner/blob/main/docs/INSTALL.md).",
+      "license": "Apache-2.0",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "releaseDate": "2026-11-24",
+          "minOpenCloud": "9.2.0",
+          "url": "https://github.com/r1cht4/opencloud-planner/releases/download/v1.0.1/planner-1.0.1.zip"
+        },
+        {
+          "version": "1.0.0",
+          "releaseDate": "2026-11-24",
+          "minOpenCloud": "9.2.0",
+          "url": "https://github.com/r1cht4/opencloud-planner/releases/download/v1.0.0/planner-1.0.0.zip"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jonas Richter",
+          "url": "https://github.com/r1cht4"
+        }
+      ],
+      "tags": [
+        "productivity",
+        "calendar",
+        "contacts",
+        "tasks",
+        "caldav",
+        "carddav"
+      ],
+      "coverImage": {
+        "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/r1cht4/opencloud-planner/cover.png",
+        "caption": "Week view with several calendars"
+      },
+      "screenshots": [
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/r1cht4/opencloud-planner/screenshots/1.png",
+          "caption": "Calendar: week view with several calendars"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/r1cht4/opencloud-planner/screenshots/2.png",
+          "caption": "Tasks grouped by list, with due dates and priorities"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/r1cht4/opencloud-planner/screenshots/3.png",
+          "caption": "Contacts with several address books"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencloud-eu/awesome-apps/main/webApps/r1cht4/opencloud-planner/screenshots/4.png",
+          "caption": "Settings: apps, navigation, reminders and formats"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://github.com/r1cht4/opencloud-planner",
+          "label": "GitHub",
+          "icon": "github"
+        },
+        {
+          "url": "https://github.com/r1cht4/opencloud-planner/blob/main/docs/INSTALL.md",
+          "label": "Installation",
+          "icon": "book-open"
+        }
+      ]
+    },
+    {
       "id": "com.github.gaijinsystems.opencloud-comicreader.comic-reader",
       "name": "OpenCloud Comic Reader",
       "subtitle": "Read CBZ, CBR and CB7 comic books right in OpenCloud.",
